@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+flammenwerfer7708@gmail.com
 <!---
-Flammenwerfer08/Flammenwerfer08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Flammenwerfer08/Flammenwerfer08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.flammenwerfer7708@gmail.com
 You can click the Preview link to take a look at your changes.
 --->
